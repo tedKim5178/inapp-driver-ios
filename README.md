@@ -76,3 +76,7 @@ scrolled; `503` means the main thread did not answer in time (or the server is s
 
 Verified on a real device with iOS 26.6 (SwiftUI + UIKit screens). Not yet exercised on the
 Simulator, on iPad multi-window, or on iOS 14–18.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
