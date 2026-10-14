@@ -1,0 +1,8 @@
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Xcode
+*.xcodeproj/
+xcuserdata/
+.swiftpm/
